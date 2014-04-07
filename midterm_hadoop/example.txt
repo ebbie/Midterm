@@ -1,0 +1,502 @@
+Number of labels: 7
+Number of documents in training set: 512
+Tweet: 309167856858308608	$13 for an iPhone 4/5 iPega Waterproof Case (Five Color Options) http://t.co/m7a5LHNw1J #DealYou #deal
+  apparel: -325.9672856468386  art: -319.4527230046726  camera: -318.22342795718026  event: -305.40808005936213  health: -330.61566286793925  home: -321.343224878571  tech: -268.42091764816087 => tech
+Tweet: 309167544130998272	#SAVE 18% Gored Crinkle #Skirt buy now from $44.95 #deal http://t.co/KKGfWVw5h3
+  apparel: -137.7010390253616  art: -151.22821637867398  camera: -158.48899749505648  event: -157.49326000845667  health: -148.73688163407644  home: -156.43225914057783  tech: -147.84976311979958 => apparel
+Tweet: 309167277155168257	Easy web hosting. $4.95 -  http://t.co/0oUGS6Oj0e  - Review/Coupon- http://t.co/zdgH4kv5sv  #wordpress #deal #bluehost #blue host
+  apparel: -618.4516416891161  art: -583.8470320647525  camera: -613.8424054579899  event: -608.4131539690129  health: -589.7959590262321  home: -608.4110803777932  tech: -506.2209340616524 => tech
+Tweet: 309167229054885888	Famous Footwear - 15% Off Sitewide http://t.co/vgmQxfJV4W #Deal - http://t.co/QImHB6xJ5b
+  apparel: -181.72642066695107  art: -222.74601281174597  camera: -244.1559840763384  event: -221.12289622721016  health: -221.04199428895637  home: -219.70126021724815  tech: -225.68943625796763 => apparel
+Tweet: 309167212181221377	Team 32GB Class 10 SDHC Card for $17 + free shipping http://t.co/uD4yJgjRiK &lt;- link #deal
+  apparel: -263.3615098552407  art: -249.5625761296583  camera: -262.793045787276  event: -279.2228315919739  health: -240.50530847059724  home: -264.32300921326623  tech: -227.16750574522484 => tech
+Tweet: 309166996174565376	ATTN #SINGERS: PLAY THIS CRAZY#SMASH. TAKEN:  http://t.co/tNN88rMXHY. 4 FOR $15 #DEAL http://t.co/Yd7PdG6HzR
+  apparel: -75.67267795158905  art: -69.02940116006887  camera: -86.72360003165427  event: -69.17027557817946  health: -82.8078191716844  home: -70.37532673501325  tech: -75.25244254505786 => art
+Tweet: 309166960803971072	Save 10% on PG Tips Tea http://t.co/eB2HkiK9CE #deal #cybermonday
+  apparel: -61.64373258218737  art: -61.29782989721678  camera: -74.15863903843709  event: -62.07564521240809  health: -55.09002509373496  home: -61.81277719459225  tech: -57.02233953943384 => health
+Tweet: 309166960451678208	Dian Griesel, Tom Griesel #weight #deal http://t.co/EK6Mf6fnCz
+  apparel: -19.054793347215103  art: -18.61486814887322  camera: -20.753802723151455  event: -20.86119999441965  health: -19.986002615422695  home: -21.151379233025363  tech: -18.460570746098938 => tech
+Tweet: 309166804549369856	#Deal &amp; #Schnäppchen Update: 81137 Silverlit Feuerwehrstation incl. Feuerwehrfahrzeug für nur 21,78 € - http://t.co/2D6mTsZBYU
+  apparel: -85.85442266815193  art: -73.72266392984307  camera: -88.43914494879476  event: -85.43596964786553  health: -74.12159940913747  home: -84.93419121741573  tech: -89.39002517535047 => art
+Tweet: 309166489221599232	IQ Mission Epilogue is a challenging puzzler that will tickle your brain, #FREE today as 3MS Premium #deal.http://t.co/GUfMujuhHj
+  apparel: -161.51482937250685  art: -152.72808273579574  camera: -149.77678836645677  event: -151.21328153561157  health: -127.13057135431802  home: -147.9945093125441  tech: -154.63986439903454 => health
+Tweet: 309165988241342464	#STEVEMADDEN WOMEN S379 TS #SUNGLASSES  http://t.co/XLkR8FERxc Sale! #fashion #accessories #deal
+  apparel: -183.9779538208744  art: -252.39185285041648  camera: -268.3503497838856  event: -266.9263518648012  health: -247.4052377612426  home: -255.33246548833486  tech: -270.7242633841935 => apparel
+Tweet: 309165982675513344	RT @SLRCameraTree: Canon EOS Digital Rebel T2i 18MP w/ Full HD 1080p Video, 3.7... http://t.co/a5qFtfvdkB &lt;&lt;== #Deal #SLR #Cameras #Nikon #Canon #Sony #DSLR
+  apparel: -642.6470127618056  art: -609.7116493574389  camera: -436.1009732270994  event: -632.7621506290837  health: -616.1224257152905  home: -613.0718873516944  tech: -567.3859894411213 => camera
+Tweet: 309165980318302208	RT @SLRCameraTree: Canon EOS Rebel T3 Digital SLR Camera Review http://t.co/DAjIxmgMFT &lt;&lt;== #Deal #SLR #Cameras #Nikon #Canon #Sony #DSLR
+  apparel: -521.5983712774915  art: -491.92337627159674  camera: -342.17056364165705  event: -529.7683771639569  health: -513.5273891416862  home: -507.18891129899225  tech: -483.50419311802835 => camera
+Tweet: 309165977986297856	RT @SLRCameraTree: Canon EOS 5D Mark II Full Frame CMOS Digital SLR Camera with... http://t.co/fD5OhSbeWK &lt;&lt;== #Deal #SLR #Cameras #Nikon #Canon #Sony #DSLR
+  apparel: -613.7193139364715  art: -577.3877220867197  camera: -393.79957236213795  event: -619.2504862792209  health: -588.400119503226  home: -585.5272265392244  tech: -585.1943106354026 => camera
+Tweet: 309165975641681920	RT @SLRCameraTree: Canon EOS 60D 18 MP CMOS Digital SLR Camera w/ EF-S 18-55mm... http://t.co/cfvumgTsWg &lt;&lt;== #Deal #SLR #Cameras #Nikon #Canon #Sony #DSLR
+  apparel: -698.6468119364334  art: -679.7593703974436  camera: -452.4263694426719  event: -711.2832383860981  health: -697.7542468613367  home: -688.6951866525355  tech: -661.51137495514 => camera
+Tweet: 309165798893694976	Jolly Phonics Letter Sound Strips(Jolly Phonics) By (author) Sue Lloyd - Jolly Phonics Letter Sound... http://t.co/K6Ii9GYE8u  #Books #Deal
+  apparel: -164.23467207507062  art: -127.63978557206968  camera: -162.6526080544887  event: -161.88235517036964  health: -147.04769563380685  home: -159.39018421021666  tech: -170.05793073094574 => art
+Tweet: 309165793533362177	Physical Management for Neurological Conditions(Physiotherapy Essentials) - Physical Management for... http://t.co/jJWqobikbx  #Books #Deal
+  apparel: -65.43231335666826  art: -48.594197017244475  camera: -66.08318818095124  event: -65.91022127228325  health: -64.43101080018126  home: -65.31158242434044  tech: -66.88814664493822 => art
+Tweet: 309165788567322626	Feeling Good: The New Mood Therapy - Feeling Good: The New Mood Therapy By (author) David D. Burns... http://t.co/na4HuNMj8a  #Books #Deal
+  apparel: -320.83420769652855  art: -288.25404386213245  camera: -336.3694703109399  event: -306.2551155884054  health: -301.15544689848247  home: -300.63012536062456  tech: -326.7053410425011 => art
+Tweet: 309165782632374272	Passing Your ITIL Foundation Exam: Study Aid from the Official Publisher of ITIL By (author) Office... http://t.co/3OOXh4MIPZ  #Books #Deal
+  apparel: -270.95655169168725  art: -234.85975982777248  camera: -273.0762148517703  event: -256.25698182690473  health: -242.5302628761405  home: -253.81650320090006  tech: -268.7675116992457 => art
+Tweet: 309165153407082497	RT @SLRCameraTree: Canon EOS Digital Rebel T2i 18MP w/ Full HD 1080p Video, 3.7... http://t.co/a5qFtfvdkB &lt;&lt;== #Deal #SLR #Cameras #Nikon #Canon #Sony #DSLR
+  apparel: -642.6470127618056  art: -609.7116493574389  camera: -436.1009732270994  event: -632.7621506290837  health: -616.1224257152905  home: -613.0718873516944  tech: -567.3859894411213 => camera
+Tweet: 309165150982766592	RT @SLRCameraTree: Canon EOS Rebel T3 Digital SLR Camera Review http://t.co/DAjIxmgMFT &lt;&lt;== #Deal #SLR #Cameras #Nikon #Canon #Sony #DSLR
+  apparel: -521.5983712774915  art: -491.92337627159674  camera: -342.17056364165705  event: -529.7683771639569  health: -513.5273891416862  home: -507.18891129899225  tech: -483.50419311802835 => camera
+Tweet: 309165148793348096	RT @SLRCameraTree: Canon EOS 5D Mark II Full Frame CMOS Digital SLR Camera with... http://t.co/fD5OhSbeWK &lt;&lt;== #Deal #SLR #Cameras #Nikon #Canon #Sony #DSLR
+  apparel: -613.7193139364715  art: -577.3877220867197  camera: -393.79957236213795  event: -619.2504862792209  health: -588.400119503226  home: -585.5272265392244  tech: -585.1943106354026 => camera
+Tweet: 309165144506773505	RT @SLRCameraTree: Canon EOS 60D 18 MP CMOS Digital SLR Camera w/ EF-S 18-55mm... http://t.co/cfvumgTsWg &lt;&lt;== #Deal #SLR #Cameras #Nikon #Canon #Sony #DSLR
+  apparel: -698.6468119364334  art: -679.7593703974436  camera: -452.4263694426719  event: -711.2832383860981  health: -697.7542468613367  home: -688.6951866525355  tech: -661.51137495514 => camera
+Tweet: 309164998880526336	Canon EOS 60D 18 MP CMOS Digital SLR Camera w/ EF-S 18-55mm... http://t.co/cfvumgTsWg &lt;&lt;== #Deal #SLR #Cameras #Nikon #Canon #Sony #DSLR
+  apparel: -667.3079601038397  art: -650.3908672843444  camera: -413.4464258941748  event: -672.5443874488633  health: -668.0772133188568  home: -650.7206540154198  tech: -628.4096255665243 => camera
+Tweet: 309164996200394752	Canon EOS 5D Mark II Full Frame CMOS Digital SLR Camera with... http://t.co/fD5OhSbeWK &lt;&lt;== #Deal #SLR #Cameras #Nikon #Canon #Sony #DSLR
+  apparel: -582.3804621038778  art: -548.0192189736204  camera: -354.81962881364086  event: -580.5116353419862  health: -558.7230859607464  home: -547.5526939021086  tech: -552.092561246787 => camera
+Tweet: 309164993759309824	Canon EOS Rebel T3 Digital SLR Camera Review http://t.co/DAjIxmgMFT &lt;&lt;== #Deal #SLR #Cameras #Nikon #Canon #Sony #DSLR
+  apparel: -490.25951944489793  art: -462.55487315849757  camera: -303.19062009315996  event: -491.02952622672194  health: -483.85035559920647  home: -469.21437866187637  tech: -450.4024437294127 => camera
+Tweet: 309164991213350914	Canon EOS Digital Rebel T2i 18MP w/ Full HD 1080p Video, 3.7... http://t.co/a5qFtfvdkB &lt;&lt;== #Deal #SLR #Cameras #Nikon #Canon #Sony #DSLR
+  apparel: -611.308160929212  art: -580.3431462443396  camera: -397.1210296786023  event: -594.0232996918489  health: -586.4453921728109  home: -575.0973547145786  tech: -534.2842400525057 => camera
+Tweet: 309164446792699905	Mineral Line - Dead Sea, Body LotionBuy Now -&gt;http://t.co/nBhaZlRgQo #save #deal
+  apparel: -222.44143552691173  art: -232.66016013704527  camera: -248.6780500536769  event: -210.44999891148  health: -194.18118468992276  home: -252.48953292964393  tech: -249.17039892853637 => health
+Tweet: 309164427977056256	ATTN #SINGERS: PLAY THIS CRAZY#TRACK. TAKEN:  http://t.co/tNN88rMXHY. 4 FOR $15 #DEAL http://t.co/Yd7PdG6HzR
+  apparel: -126.25899222646287  art: -117.11647960896792  camera: -136.16666076857516  event: -118.307528878334  health: -131.28624474349724  home: -118.54310104944001  tech: -116.00619319142815 => tech
+Tweet: 309163742132834304	#China #Book #Deal A Thousand Splendid Suns By (author) Khaled Hosseini: A Thousand Splendid Suns By (author) ... http://t.co/z662w8Tv8S
+  apparel: -346.2666436843547  art: -295.14576612429227  camera: -331.0259550977458  event: -311.95756013978684  health: -326.5340181017207  home: -332.71917747986936  tech: -360.13638079311215 => art
+Tweet: 309163731240243200	#Gadget #Deal A Thousand Splendid Suns By (author) Khaled Hosseini: A Thousand Splendid Suns By (author) Khale... http://t.co/z662w8Tv8S
+  apparel: -349.8287300647658  art: -323.48220652751627  camera: -355.8481410643093  event: -334.1697576198941  health: -348.5426432984113  home: -347.6026187536037  tech: -376.4580670588456 => art
+Tweet: 309163592463302656	ATTN #RAPPERS: PLAY THIS HOT#HIT. TAKEN:  http://t.co/tNN88rMXHY. 4 FOR $15 #DEAL http://t.co/Yd7PdG6HzR
+  apparel: -90.87788791372117  art: -88.51319631197583  camera: -113.83902300337984  event: -96.11798850379888  health: -100.89083550385584  home: -87.09001273885112  tech: -91.1765610477522 => home
+Tweet: 309162938663567360	Want a #deal? How about #FREE stuff? Check out companies who allow me to offer my followers special #discounts! http://t.co/xXjw5Xq3yh
+  apparel: -313.8015981764069  art: -293.5095002804441  camera: -314.47261566914483  event: -304.2573921730908  health: -294.37341536085006  home: -298.21587129833375  tech: -327.3517382587458 => art
+Tweet: 309162739325104128	Trendi365-Paisley Lace Blouse! $34.99 http://t.co/8qF8QIYOep #fashion #sale #deal #style #clothes http://t.co/B3AK4tFYyS
+  apparel: -105.67980084190182  art: -134.57923445308316  camera: -147.27876786247015  event: -146.54896184533752  health: -136.98381100586292  home: -137.36884647709934  tech: -140.78036872438852 => apparel
+Tweet: 309162019251171328	SAVE $50.00 - Discovery Kids Digital Camcorder Blue $29.99 http://t.co/68ceO0x2VV #deal #camcorder
+  apparel: -222.6915873119883  art: -210.7209372278535  camera: -192.02246071505584  event: -228.80697496095226  health: -213.54477103950452  home: -214.079010309717  tech: -221.52222198880057 => camera
+Tweet: 309161379041013760	Battpit™ Laptop / Notebook Battery Replacement for Sony VAIO VGN-AR18CP (6600 mAh) with FREE 8... http://t.co/RmGg39GjEH #discount #deal
+  apparel: -300.6865398811108  art: -281.660562310308  camera: -268.7429955117553  event: -295.85461314733175  health: -290.25432106153613  home: -280.46606403669864  tech: -231.3950536669867 => tech
+Tweet: 309161377996623874	George Harper H&amp;B Lville Slugger Game Used Bat 1916-29 - Game Used MLB Bats: George Harper H&amp;B... http://t.co/gowac0VzN2 #discount #deal
+  apparel: -384.2171187452911  art: -382.36584735744947  camera: -396.57877931329045  event: -368.7676768177889  health: -402.23376046256686  home: -396.5401768760517  tech: -392.77877875864476 => event
+Tweet: 309161376826392576	Waterhog Grand Premier Floor Mat - One End: Cleated Back - 6' x 19.3' - Regal Red: This bar fl... http://t.co/omf8G9Y7dG #discount #deal
+  apparel: -308.61033801431273  art: -290.43462649805457  camera: -335.7555340777103  event: -341.74542768016687  health: -299.5499620544787  home: -305.08638737047846  tech: -309.15458150149993 => art
+Tweet: 309161374741843968	8000K BLUE HID HEADLIGHT KIT H4 Suzuki GSX-R750 96-06: Xenon HID conversion kit offering True ... http://t.co/sm7zZD7o70 #discount #deal
+  apparel: -233.20263061849775  art: -208.14646379771796  camera: -231.16162989444845  event: -212.48287561468464  health: -213.34510710512077  home: -235.037155781103  tech: -222.431778319919 => art
+Tweet: 309161373546475521	Home Decor King Size Bedspread with Elephant Patch &amp; Thread Work Cotton Bed Sheet Bedspread Ta... http://t.co/2UIOqmwNOQ #discount #deal
+  apparel: -376.36771650310885  art: -382.6435942519159  camera: -384.4417771443994  event: -377.3175257090647  health: -389.26411032698684  home: -347.30857772636443  tech: -399.47217133689685 => home
+Tweet: 309160923162112001	#books #1: The Blood Sugar Solution Cookbook: More than 175 Ultra-Tasty Recipes for Total Health and Wei... http://t.co/6UuK5jIcTl #deal
+  apparel: -482.09322695610854  art: -343.3160216453347  camera: -474.04215210610005  event: -468.78696922140773  health: -453.8551876518658  home: -442.9112576523599  tech: -479.1354146370168 => art
+Tweet: 309160778165010432	ATTN #SINGERS: PLAY THIS HOT#BANGER. TAKEN:  http://t.co/tNN88rMXHY. 4 FOR $15 #DEAL http://t.co/Yd7PdG6HzR
+  apparel: -90.87788791372117  art: -88.51319631197583  camera: -113.83902300337984  event: -96.11798850379888  health: -100.89083550385584  home: -87.09001273885112  tech: -91.1765610477522 => home
+Tweet: 309160210277232640	#discount #deal Hot Deals 4: Levi's 512 Misses Perfectly Slimming Boot Cut Jean with Tummy Slim... http://t.co/LySoseRF9Z Best Buy Price
+  apparel: -368.30573152232336  art: -462.22436732287  camera: -502.38779272826076  event: -493.88789803354615  health: -476.1638323022807  home: -444.3305669189052  tech: -491.1046305305181 => apparel
+Tweet: 309160208561758208	#discount #deal Hot Deals 8: Gloria Vanderbilt Women's Amanda Denim in Silverpond New Women Jea... http://t.co/7dKF3beuzK Best Buy Price
+  apparel: -264.7331732546352  art: -316.4378362361157  camera: -374.8890550431293  event: -344.2754259874875  health: -327.1919377621866  home: -305.6974195250213  tech: -334.54537100835364 => apparel
+Tweet: 309159820320194560	#Deal &amp; #Schnäppchen Update: [Blu-ray] Pastewka – 6. Staffel für 15.99 Euro versandkostenfrei - http://t.co/nPJuloKzGW
+  apparel: -302.60334239698693  art: -223.64861461783224  camera: -312.0854380762342  event: -307.6990009257302  health: -282.2243855427056  home: -288.5687525484882  tech: -297.25751045990546 => art
+Tweet: 309159725772193792	#Deal &amp; #Schnäppchen Update: [Blu-ray] Die Armee der Finsternis [Director's Cut] für 10.99 Euro versandkostenfrei - http://t.co/yjpWMGUyDe
+  apparel: -256.04477881107306  art: -209.18894396203572  camera: -271.4894946216067  event: -267.35414511062055  health: -253.6006328719911  home: -263.26311745706596  tech: -265.0670627614025 => art
+Tweet: 309159433542447105	http://t.co/iFVfkPUZ6Y found article on  http://t.co/EdUeuIq4Ul  Government targets SMEs in Â£2bn consultancy #deal
+  apparel: -61.00598539495525  art: -70.22793613020109  camera: -73.88545319225456  event: -73.60958795266608  health: -72.05159673422668  home: -72.89776315379474  tech: -74.62641865646064 => apparel
+Tweet: 309158929898807296	ATTN #ARTISTS: PLAY THIS CRAZY#TRACK. TAKEN:  http://t.co/tNN88rMXHY. 4 FOR $15 #DEAL http://t.co/Yd7PdG6HzR
+  apparel: -126.25899222646287  art: -117.11647960896792  camera: -136.16666076857516  event: -118.307528878334  health: -131.28624474349724  home: -118.54310104944001  tech: -116.00619319142815 => tech
+Tweet: 309158718526861313	[Deal] Win 1 of 6, Tomb Raider for Ps3 or Xbox 360 @ Asda http://t.co/4XlbgvUtUw #deal
+  apparel: -202.1472653333906  art: -166.17503210529964  camera: -180.00145665629043  event: -189.8626188291326  health: -175.1422160496695  home: -182.18351606361762  tech: -170.04552474914013 => art
+Tweet: 309158224811151360	#amazon Bestseller: #1: The Blood Sugar Solution Cookbook: More than 175 Ultra-Tasty Recipes for ... http://t.co/yMw84jXcZm #books #deal
+  apparel: -463.69021481437534  art: -331.7673929132477  camera: -447.55477840355326  event: -450.9111171840254  health: -436.2190133782774  home: -416.22939257247117  tech: -444.73128223757965 => art
+Tweet: 309158180632530944	ATTN #SINGERS: PLAY THIS HOT#BEAT. TAKEN:  http://t.co/tNN88rMXHY. 4 FOR $15 #DEAL http://t.co/Yd7PdG6HzR
+  apparel: -90.87788791372117  art: -88.51319631197583  camera: -113.83902300337984  event: -96.11798850379888  health: -100.89083550385584  home: -87.09001273885112  tech: -91.1765610477522 => home
+Tweet: 309158049468256256	#Birmingham #Deal £17 instead of £102.50 for a half-body massage, ‘Revive’ facial, manicure &amp; pedicure at Saba's... http://t.co/1P4zbwGKQY
+  apparel: -218.44770184155004  art: -222.59121193187573  camera: -219.36200163598218  event: -213.15476636832003  health: -177.0304949300575  home: -221.96364217015014  tech: -239.66116653855215 => health
+Tweet: 309158048428068864	#Birmingham #Deal £17 instead of £102.50 for a half-body massage, ‘Revive’ facial, manicure &amp; pedicure at Saba's... http://t.co/LGehfrRaFA
+  apparel: -218.44770184155004  art: -222.59121193187573  camera: -219.36200163598218  event: -213.15476636832003  health: -177.0304949300575  home: -221.96364217015014  tech: -239.66116653855215 => health
+Tweet: 309158048209965057	#Birmingham #Deal All-You-Can-Eat Brazilian Grill With Salad Buffet and Cocktail for £18 at Rodizio Rico, Birmingham http://t.co/hddzT2oulP
+  apparel: -218.5558145991139  art: -217.73843390957364  camera: -217.61101514138485  event: -212.44192396368564  health: -228.90808428669678  home: -212.08278222293902  tech: -226.78457629067785 => home
+Tweet: 309158039594864640	#Birmingham #Deal All-You-Can-Eat Brazilian Grill With Salad Buffet and Cocktail for £18 at Rodizio Rico, Birmingham http://t.co/LEJKAHGrOS
+  apparel: -218.5558145991139  art: -217.73843390957364  camera: -217.61101514138485  event: -212.44192396368564  health: -228.90808428669678  home: -212.08278222293902  tech: -226.78457629067785 => home
+Tweet: 309158038030413824	#Birmingham #Deal Manicure or Pedicure from £12; With Shellac from £16 at The Retreat (Up to 77% Off) http://t.co/qgNHhSRjfn
+  apparel: -209.19578510431808  art: -232.20025902073377  camera: -243.11917187536034  event: -216.1978706410582  health: -224.45395361804475  home: -212.73916707042866  tech: -224.4272520874934 => apparel
+Tweet: 309158036759511042	#Birmingham #Deal Manicure or Pedicure from £12; With Shellac from £16 at The Retreat (Up to 77% Off) http://t.co/ZMq0a4GIsa
+  apparel: -209.19578510431808  art: -232.20025902073377  camera: -243.11917187536034  event: -216.1978706410582  health: -224.45395361804475  home: -212.73916707042866  tech: -224.4272520874934 => apparel
+Tweet: 309157940554768384	Bunches: HOT #deal! 10% #voucher code - 10% off all purchases at Bunches using EXCLUSIVE voucher code. Ends: 12/31/13 http://t.co/DIp9DjzVmL
+  apparel: -321.3252420809746  art: -349.92034142337036  camera: -419.94165302954445  event: -328.97482780025337  health: -335.77479489462155  home: -360.3233106101871  tech: -360.76803155508543 => apparel
+Tweet: 309157939053203456	#London #UK #Deal £79 instead of £425 for a medical MOT inc. blood profile, diabetes &amp; thyroid check + more at... http://t.co/eHjoBd0dDz
+  apparel: -446.9349478909785  art: -409.7772459003032  camera: -437.2116123761407  event: -396.37884513881636  health: -431.8947308206709  home: -421.67944913613144  tech: -427.1497574433112 => event
+Tweet: 309157935727128576	Safety 1st Heavenly Dreams White Crib Mattress #deal was $54.99 now  $47.69 http://t.co/0ZxKpn6Qyd
+  apparel: -129.32987906537153  art: -138.52206028214806  camera: -144.26067224800994  event: -143.55625351988795  health: -125.05346870836962  home: -149.02063662243694  tech: -140.29180461255277 => health
+Tweet: 309157934338809858	#London #UK #Deal £69 instead of £375 for 3 sessions of LumiSlim Laser Lipolysis, or £119 for 6 sessions at The... http://t.co/2Ei3ap1fHg
+  apparel: -357.14005071792343  art: -320.459232124707  camera: -342.2229672545253  event: -302.0423315574121  health: -284.30249584098243  home: -322.2461049832307  tech: -325.06042198632167 => health
+Tweet: 309157931633491968	#London #UK #Deal £29 for a £60 voucher to spend on Indian food for 2 + a glass of wine each at Shezan in... http://t.co/hkNr9vR9CR
+  apparel: -381.52321813963437  art: -382.1494159011742  camera: -412.7325458135038  event: -291.0741269740437  health: -371.93788854258935  home: -385.3271670249611  tech: -403.8663226578517 => event
+Tweet: 309157928940752899	#London #UK #Deal £5 instead of £16 for 2 tickets to The National Asian Wedding Show on Sunday 24th March 2013 at... http://t.co/CewcaZw867
+  apparel: -419.11636341698295  art: -387.74654120677576  camera: -429.17958703013505  event: -310.51215844223526  health: -424.1425166780313  home: -401.31373531391614  tech: -404.5454176020709 => event
+Tweet: 309157926243807233	#London #UK #Deal 60-Minute Aromatherapy Massage for £24 at Elegant Hair and Beauty Studio (63% Off) http://t.co/BQPaQicGdJ
+  apparel: -347.8190337320178  art: -346.95444217134593  camera: -353.922877836965  event: -316.4223815221353  health: -275.4079388447706  home: -346.8158865563183  tech: -351.9842235001883 => health
+Tweet: 309157914122264576	#London #UK #Deal £79 instead of £425 for a medical MOT inc. blood profile, diabetes &amp; thyroid check + more at... http://t.co/AJFWnWBJnk
+  apparel: -446.9349478909785  art: -409.7772459003032  camera: -437.2116123761407  event: -396.37884513881636  health: -431.8947308206709  home: -421.67944913613144  tech: -427.1497574433112 => event
+Tweet: 309157911739891714	#London #UK #Deal £69 instead of £375 for 3 sessions of LumiSlim Laser Lipolysis, or £119 for 6 sessions at The... http://t.co/LXVM3OVt55
+  apparel: -357.14005071792343  art: -320.459232124707  camera: -342.2229672545253  event: -302.0423315574121  health: -284.30249584098243  home: -322.2461049832307  tech: -325.06042198632167 => health
+Tweet: 309157908904570880	#London #UK #Deal £29 for a £60 voucher to spend on Indian food for 2 + a glass of wine each at Shezan in... http://t.co/I0F7gyUOZc
+  apparel: -381.52321813963437  art: -382.1494159011742  camera: -412.7325458135038  event: -291.0741269740437  health: -371.93788854258935  home: -385.3271670249611  tech: -403.8663226578517 => event
+Tweet: 309167821840068609	RT @myossm: #Shopping #Bargain #Deals Savings in Home &amp; Kitchen @ http://t.co/USxcx1fbzE
+  apparel: -234.15049920768283  art: -254.3817083409908  camera: -260.43862118650446  event: -250.53214126628865  health: -242.81087834299103  home: -215.48687169726819  tech: -236.60096700590248 => home
+Tweet: 309167642126729216	$20 Toward Joe’s Jerky and Nonnie’s Country Store &amp; Cafe http://t.co/i1ls20zx57 #deals #uticadailydeals
+  apparel: -109.58141020963902  art: -110.16102322421253  camera: -120.42905885389138  event: -116.87134112875461  health: -106.62065479534598  home: -106.55065693293035  tech: -116.63433830196385 => home
+Tweet: 309167640952311808	Spring Clean-Up Services From Legacy Landscaping http://t.co/hIm6lFgcf1 #deals #albanydailydeals
+  apparel: -164.71541829972497  art: -173.68773058989035  camera: -178.76066249698556  event: -157.0528569590777  health: -161.0908944389733  home: -155.86569421834258  tech: -177.54057811510586 => home
+Tweet: 309167270989541376	Beautiful Jan Royce Conant Drawing of Jamaica - 1982 - Rare CT Artist - Animals #CPTV #EBAY #FineArt #Deals http://t.co/MUZf5aixMz
+  apparel: -90.7035011634112  art: -75.77342773319035  camera: -93.43022222045315  event: -100.79322713122136  health: -99.44297446068255  home: -89.14124243218781  tech: -93.75054601338456 => art
+Tweet: 309167234327138305	Famous Footwear - 15% Off Sitewide: Famous Footwear Coupons http://t.co/01BwdNamTG #Offer360 #Deals
+  apparel: -213.41087035104485  art: -262.63553781842205  camera: -294.06043124566844  event: -275.21468180426444  health: -266.2017468802598  home: -251.12775994853263  tech: -285.7027725867841 => apparel
+Tweet: 309167224525045760	Famous Footwear - 15% Off Sitewide: Famous Footwear Coupons http://t.co/sT1HztCfWN #goth #deals
+  apparel: -213.89704796668312  art: -268.78461323396493  camera: -289.94675596654736  event: -271.12644978197346  health: -253.37781875958834  home: -248.4796107138399  tech: -266.3417512117184 => apparel
+Tweet: 309167222947979265	#deals Famous Footwear - 15% Off Sitewide: Famous Footwear Coupons http://t.co/iavIKwi7Uh #Punk #Deals
+  apparel: -184.11058705650402  art: -232.4303046564565  camera: -252.5020717174127  event: -233.91791553665547  health: -225.4347182747097  home: -220.68267498922054  tech: -240.93765551110357 => apparel
+Tweet: 309167220754354178	Team 32GB Class 10 SDHC Card for $17 + free shipping: newegg offers the Team 32GB SDHC Class ... http://t.co/TGhgVAtLkQ #Offer360 #Deals
+  apparel: -358.66134356969883  art: -351.510815147017  camera: -397.4120984329331  event: -399.1157001800201  health: -344.6820477278973  home: -370.18439446137364  tech: -329.51959488768887 => tech
+Tweet: 309167219131162624	Lenovo Ivy Bridge Core i5 Dual 2.5GHz 16" Laptop for $529 + free shipping: Lenovo offers its ... http://t.co/MpnWyo9sE4 #Offer360 #Deals
+  apparel: -366.75673566417765  art: -368.4685991546579  camera: -388.03654333157107  event: -395.5709268419641  health: -370.89126486343264  home: -364.3651416937458  tech: -327.7238723939514 => tech
+Tweet: 309167217776418816	Columbia River Guppie 9-in-1 Multi-Tool for $19 + free shipping: AltaTac via eBay offers the ... http://t.co/5Gyc74mRmM #Offer360 #Deals
+  apparel: -288.8341413386053  art: -276.7167594900841  camera: -311.0462241274445  event: -316.873032832583  health: -298.1974868430611  home: -290.6997135180697  tech: -306.5235818273698 => art
+Tweet: 309166984954789888	#MLB #Jeter Derek Jeter could make spring debut for Yankees this weekend http://t.co/ET2wRNEyog #Deals
+  apparel: -239.97347231076185  art: -229.5149287633948  camera: -235.98190977349248  event: -180.24259978361064  health: -231.25976956454622  home: -229.5972723604831  tech: -249.7846149564762 => event
+Tweet: 309166801051348992	Minix NEO-X5 Android TV Media Player $86 at Newegg: Newegg has the Minix NEO-X5-116A Android TV M... http://t.co/ibda4hP49L #goth #deals
+  apparel: -572.8512869122708  art: -594.2905344497841  camera: -611.0436313223543  event: -607.143377415329  health: -580.478942374184  home: -586.1945043815434  tech: -458.44332648027165 => tech
+Tweet: 309166800011157504	Samsung 11.6" Exynos Dual-Core SSD Chromebook $224 at Newegg: Newegg has the Samsung XE303C12-A01... http://t.co/wCDsodcbCA #goth #deals
+  apparel: -288.0944736081241  art: -309.46176054827095  camera: -318.1831203100109  event: -316.09422113847205  health: -293.3321461518124  home: -300.88775375159173  tech: -233.21448939293558 => tech
+Tweet: 309166798996123650	Dell S2740L 27" 1920x1080 LED LCD Monitor $261 at Newegg: Newegg has the new Dell S2740L 27" 1920... http://t.co/ALQ0M2Tery #goth #deals
+  apparel: -339.6023997839776  art: -366.7345413435671  camera: -358.9557413621388  event: -371.9155159309921  health: -351.1190146190378  home: -364.16267647221974  tech: -273.6231063401633 => tech
+Tweet: 309166797872041984	2 x 3ft Lightning to USB Cables + Car Charger $10 at Amazon: Amazon with ButterflyPhoto has two 3... http://t.co/sAy3Fv8ipD #goth #deals
+  apparel: -384.7279977825815  art: -337.7969912012986  camera: -372.75550159662026  event: -365.53667421829465  health: -330.6157511194662  home: -346.2072211821473  tech: -310.6460495248207 => tech
+Tweet: 309166708948619264	Take 40% off sitewide at Justice for girls online. Get #coupon code http://t.co/9pv0F2S3xa #deals
+  apparel: -278.02455187442666  art: -291.75430360417636  camera: -332.234190668643  event: -280.13675599421356  health: -258.57663244756844  home: -305.42760436310124  tech: -284.0276578984429 => health
+Tweet: 309166594578329602	"One stop source for #Agile, I recommend it to fellow Agile practitioners" #project management UK #Kindle #deals £2 http://t.co/Ycij5ExzpU
+  apparel: -302.05158727389187  art: -249.7979149345743  camera: -340.12265267926284  event: -310.3106535969823  health: -317.25599639886525  home: -325.08092922058904  tech: -321.69445340453944 => art
+Tweet: 309166570280730624	#deals #coupons Motorola S305 Bluetooth Stereo Headset http://t.co/QcQLdztZks
+  apparel: -128.05062052635816  art: -129.06268495983986  camera: -132.83320536312345  event: -136.68874530461017  health: -126.07821925441642  home: -123.28424625798587  tech: -99.26127172619184 => tech
+Tweet: 309166567856406529	#deals #coupons Motorola S305 Bluetooth Stereo Headset http://t.co/BBysdtmvHc
+  apparel: -128.05062052635816  art: -129.06268495983986  camera: -132.83320536312345  event: -136.68874530461017  health: -126.07821925441642  home: -123.28424625798587  tech: -99.26127172619184 => tech
+Tweet: 309166464944984064	Today's #bargain? Check Call of Duty: Modern Warfare 3: #Xbox 360 http://t.co/1Drs5rpElo  #gaming #deals
+  apparel: -285.036692399111  art: -270.02527878523614  camera: -249.88893568016974  event: -257.1389437958991  health: -265.56236606824154  home: -267.8098417111416  tech: -227.86482945894568 => tech
+Tweet: 309166463292420096	Murió Hugo Chávez #deals Up to 50% Off SanDisk Memory Card http://t.co/u4Hz2ETckv
+  apparel: -245.72248045685262  art: -240.83961422881646  camera: -263.87823981591384  event: -241.89360764483288  health: -240.46458198085438  home: -226.75261678917224  tech: -206.526781634813 => tech
+Tweet: 309166455528751104	Monsters Inc http://t.co/gpwYfh4juM #deals
+  apparel: -61.5500163423684  art: -59.90655054364712  camera: -61.59083391054142  event: -61.08896896035359  health: -60.271067295607025  home: -59.70427100864511  tech: -48.59878753380754 => tech
+Tweet: 309166206936563718	Delight Induction Cookware Set of 9 Pcs Rs. 719 – IndiaTimes Shopping: • handi 1 ltrs • handi lid... http://t.co/bv4aG2RYMu #DEALS #OFFERS
+  apparel: -211.90741414383064  art: -218.04043676792313  camera: -230.05292114813705  event: -222.21957774950303  health: -202.27858168702286  home: -181.95683276005664  tech: -204.93901327755577 => home
+Tweet: 309165975880744960	#Shopping #Bargain #Deals Savings in Home &amp; Kitchen @ http://t.co/USxcx1fbzE
+  apparel: -202.8116473750892  art: -225.01320522789166  camera: -221.45867763800734  event: -211.7932903290538  health: -213.1338448005114  home: -177.5123390601523  tech: -203.49921761728683 => home
+Tweet: 309165922407575552	Video Game Deals! The History of Sonic the Hedgehog (Hardcover) recently tagged "video games" http://t.co/Grmnequ7OY #deals #360 #ps3
+  apparel: -171.2822643599113  art: -164.53418901603774  camera: -155.33680389047242  event: -154.9764805740819  health: -165.66675666023428  home: -164.33535615915258  tech: -124.5393448139752 => tech
+Tweet: 309165920935366657	Video Game Deals! Mega Man Battle Network: Official Complete Works (Paperback) recently tagge... http://t.co/0WWq41kplL #deals #360 #ps3
+  apparel: -203.80669059245156  art: -180.4955487852263  camera: -179.0897055631349  event: -199.5340436179382  health: -196.83591770668914  home: -195.3047842531335  tech: -159.29301974943917 => tech
+Tweet: 309165720309207040	Amazon DEALS - $2 Bounce Fresh Linen Sheets, 40-Count (Pack of 3) HOT #Amazon #deals #coupons At http://t.co/qS1dlp2dCD
+  apparel: -371.33662543759345  art: -348.08716023305305  camera: -384.4423421155525  event: -385.1570446716164  health: -337.2368054148408  home: -320.33775115707454  tech: -340.049731808299 => home
+Tweet: 309165716106539009	Sears DEALS - $37 Klipsch Reference S4 Premium In-Ear Headphones HOT #Sears #deals #coupons At http://t.co/qNiH2YgreY
+  apparel: -308.12674501033905  art: -305.58863859349924  camera: -310.70721277160334  event: -324.04798109327754  health: -302.39801010585546  home: -273.4202893272774  tech: -237.62236994016985 => tech
+Tweet: 309165712881111040	Fossil DEALS - $0 Up to 55% off in Sale HOT #Fossil #deals #coupons At http://t.co/9xdOpieCub
+  apparel: -271.08733535139436  art: -292.361353823046  camera: -307.01294633586866  event: -313.67565493255194  health: -274.5523117658497  home: -268.52583481924734  tech: -264.0847983465111 => tech
+Tweet: 309165707055230976	Kmart DEALS - $10 Kyocera S2100 Prepaid Virgin Mobile PayLo Phone HOT #Kmart #deals #coupons At http://t.co/29DncIHXjO
+  apparel: -191.19071472213102  art: -192.69979487995812  camera: -209.020817656665  event: -209.62060446849043  health: -168.74368764872042  home: -184.0695936166487  tech: -158.59111243376816 => tech
+Tweet: 309165703079030784	BestBuy DEALS - $89 WD My Passport 1.5TB External Portable Hard Drive HOT #BestBuy #deals #coupons At http://t.co/ssc66DPFMg
+  apparel: -394.40789349292174  art: -398.3131023675421  camera: -406.95847303283523  event: -418.79745663956044  health: -383.80842987729716  home: -390.0125617591139  tech: -319.4605985515067 => tech
+Tweet: 309165204422418433	Check this out! GoPro CHDMH002 HD Motorsports Hero2 #Camera Bundle http://t.co/qQAckHWgVp  #photography #deals
+  apparel: -197.79122575145678  art: -173.55466688618387  camera: -125.68110918574232  event: -172.0558710682675  health: -190.83522135244516  home: -189.43176590939697  tech: -171.7372279929244 => camera
+Tweet: 309164390521917440	RT @lussobaby is having a floor model sale! Get great items at great prices! http://t.co/imQgXCgJKU #Vancouver #deals
+  apparel: -236.5395260609415  art: -219.1981949088185  camera: -278.92147299232613  event: -252.76484665169892  health: -246.30187865780132  home: -264.4000988025458  tech: -238.3538699728724 => art
+Tweet: 309163945485291520	Check this out! ##Windows8: Out of the Box: Mike Halsey http://t.co/cZwlLEbqvF  #book #deals
+  apparel: -191.7849684498459  art: -150.6116044821075  camera: -154.62388816660945  event: -154.169898321573  health: -178.05004441501455  home: -183.71266875188633  tech: -173.28733455312914 => art
+Tweet: 309163695840305152	#YouTube #Fatloss #Tips DIY Anti-Cellulite Treatment - How to get rid of Cellulite! http://t.co/GW638HadGL #Deals Koomg
+  apparel: -206.16223928500168  art: -197.01397372689044  camera: -199.41364080141614  event: -197.1520729908011  health: -152.534575072099  home: -204.34428349896902  tech: -204.15437470433494 => health
+Tweet: 309163565368102914	#deals Hadley-Roma Men’s MB3808RASE 20 20-mm Black Fine Mesh Stainless Steel Watch Strap Best Reviews http://t.co/o4tq1GbH2a #discounts
+  apparel: -285.05780465525027  art: -360.76747956518943  camera: -373.6384388014483  event: -372.1470643956564  health: -359.62780867261915  home: -289.9052619521984  tech: -368.33831166866594 => apparel
+Tweet: 309163563593908224	#deals best Ladies Fashion Weave Wrap Around Leather Retro Bracelet Woman Watch Hand-knit/brown reviews http://t.co/Hfdcmz58tb #discounts
+  apparel: -761.1409885025508  art: -781.8288519639134  camera: -805.5158779393415  event: -800.7559916442939  health: -798.3011255975389  home: -738.7709346944608  tech: -847.9979685468852 => home
+Tweet: 309163318248103936	#discounts Workout 8: Concept2 Model E Indoor Rowing Machine Best Cardio Training 2012 http...: Workout... http://t.co/0K3Rafwihe #deals
+  apparel: -292.83023568117284  art: -302.74576411510753  camera: -322.9232428489418  event: -303.9849794991478  health: -309.334139233335  home: -256.10012172170644  tech: -295.33655221212416 => home
+Tweet: 309163316964638720	#discounts Workout 3: Body Rider Fan Bike Best Cardio Training 2012 http://t.co/EWmrimHLhk A...: Workout... http://t.co/60yAjvaFPb #deals
+  apparel: -192.21112398539685  art: -213.46869480393462  camera: -207.60549243717  event: -207.37177948757716  health: -195.19185232966393  home: -188.02280582106727  tech: -214.0555259308496 => home
+Tweet: 309163310694150144	#deals Workout 8: Concept2 Model E Indoor Rowing Machine Best Cardio Training 2012 http... http://t.co/oCEhzkFfXG #offer
+  apparel: -291.01762355787  art: -287.9714363101174  camera: -307.7323015280717  event: -280.9651320581837  health: -294.43957350027836  home: -238.41295577494657  tech: -279.1073345344186 => home
+Tweet: 309163309607821314	#deals Workout 3: Body Rider Fan Bike Best Cardio Training 2012 http://t.co/DhA3fIIMWy A... http://t.co/ly5XXOmCJ3 #offer
+  apparel: -190.398511862094  art: -198.69436699894447  camera: -192.41455111629983  event: -184.35193204661306  health: -180.29728659660728  home: -170.3356398743074  tech: -197.82630825314402 => home
+Tweet: 309162807935524864	#OnlineDeals Deal Mini Biosphären Aquarium http://t.co/Lit1wmLw8O #Deals bei The-Pr.de
+  apparel: -167.44081711515116  art: -160.4345349253442  camera: -166.4150655164709  event: -144.33916597722964  health: -141.46503006017764  home: -162.7934753524121  tech: -161.12453034370887 => health
+Tweet: 309162689110892544	Check this #bargain! Arduino MEGA 2560 Board http://t.co/Fe7NelAR3j  #electronics #deals
+  apparel: -254.1387399007987  art: -247.2372554623316  camera: -228.72152276047635  event: -250.20831236832217  health: -255.97681971519197  home: -231.03318617418037  tech: -196.678044604812 => tech
+Tweet: 309162676087562240	Toronto Raptors Tickets only $19 and pick from 2 Games &amp; 2 Seating Options #Deals #Toronto #rtz - http://t.co/MgmiH3d1MF
+  apparel: -333.46968607995757  art: -328.7453404248061  camera: -356.7356180155054  event: -251.59179269906804  health: -321.92263216006756  home: -332.0142286518687  tech: -309.3959881853401 => event
+Tweet: 309162653207625730	Turcom 102 Google Android 40 Tablet Pc 1 Gb Ddr Ram 4gb Hdd Wifi Camera Hdmi Support External 3... http://t.co/OpxIAGCCw6 #tablet #deals
+  apparel: -479.674773701553  art: -437.31235974798744  camera: -438.61260689189976  event: -448.7163714986438  health: -429.8234836783949  home: -451.25501107528663  tech: -355.14075865045464 => tech
+Tweet: 309162057008300033	[Airtel Money] HomeShop18 Rs. 150 off on Rs. 500, Rs. 350 off on Rs. 1500: Airtel money lets you... http://t.co/y5OLPUgyXK #DEALS #OFFERS
+  apparel: -239.73183766638283  art: -243.25010931642316  camera: -264.9651461227027  event: -250.03700416148942  health: -203.83917031941223  home: -191.78776771405046  tech: -219.19363058853173 => home
+Tweet: 309162055800324096	Johnson &amp; Johnson Band-Aid WashProof Antiseptic 10 Strips Rs. 15 – Tradus: Hot deal sticky. Scroll... http://t.co/BdrQihlkQK #DEALS #OFFERS
+  apparel: -542.6329393918098  art: -530.9784291483634  camera: -572.3476634760991  event: -551.1807746333384  health: -436.9213048214845  home: -499.6682913348672  tech: -540.7269994024465 => health
+Tweet: 309162007582625792	20% Off at Tea Collection http://t.co/sZlxXocxtY #baby #deals #fashion #kids #savings
+  apparel: -270.25312206733065  art: -281.26060034746223  camera: -313.0532517038803  event: -287.7452736232104  health: -260.57852309935606  home: -275.89992540630533  tech: -312.95245283747266 => health
+Tweet: 309161942092763136	Vaca Rental Deal - $179 / 2br - $20.00 discount per night (Rio Grande, Puerto Rico): $20.00 dis... http://t.co/FQerRAureJ #travel #deals
+  apparel: -167.41673759040845  art: -148.58156304711414  camera: -168.89072742116184  event: -143.20555968480772  health: -166.03651382396075  home: -172.72976503151938  tech: -181.5760645116082 => event
+Tweet: 309161784969936896	#deals The Proving Ground G. Bruce Knecht (Author)  20 days in the top 100 (75)Buy new: $14.95  $8... http://t.co/SZnU2kht2o #hot #books
+  apparel: -766.1347608480986  art: -578.1192962735101  camera: -805.4249689715306  event: -752.9459298078374  health: -724.2322207241525  home: -733.4626490245481  tech: -772.5301363795791 => art
+Tweet: 309161706112815105	RT @BargainNext: #coupon - LE6OFF - Electronics Coupon: $6 off $80 with code: LE6OFF - http://t.co/Ji3yh1KqGF - #bargain #deals
+  apparel: -452.386446491695  art: -443.7774987851934  camera: -474.3525809539323  event: -456.52139922919673  health: -426.8754783350513  home: -439.1154814826329  tech: -373.26082870167704 => tech
+Tweet: 309161699456471040	RT @Spradley_Barr: #collisioncenter #marchmadness #savings #deals @Spradley_Barr @Krazy_Bitch23 @Ford @FordMustang @FordTrucks http://t.co/1tsPSFiWWO
+  apparel: -95.25913800630731  art: -91.52821941825292  camera: -102.8874790593428  event: -88.19084915200727  health: -80.15093993384156  home: -99.93575048873826  tech: -99.05098392486761 => health
+Tweet: 309161677406994432	RT @Spradley_Barr: #parts #marchmadness #deals #savings #ford @Spradley_Barr @Krazy_Bitch23 @Ford @FordMustang @FordTrucks http://t.co/fSoI9ZF19S
+  apparel: -95.25913800630731  art: -91.52821941825292  camera: -102.8874790593428  event: -88.19084915200727  health: -80.15093993384156  home: -99.93575048873826  tech: -99.05098392486761 => health
+Tweet: 309161654803918849	RT @Spradley_Barr: #service #marchmadness #deals #savings @Spradley_Barr @Krazy_Bitch23 @lincolnnewyork @for http://t.co/2uNxQ5zOA8
+  apparel: -95.25913800630731  art: -91.52821941825292  camera: -102.8874790593428  event: -88.19084915200727  health: -80.15093993384156  home: -99.93575048873826  tech: -99.05098392486761 => health
+Tweet: 309161550663528450	GERMAN - HEBERW - ENGLISH NON-TRANSPARENT KEYBOARD STICKERS ON BLACK BACKGROUND: High-quality stickers ... http://t.co/Mt0o2msqI9 #deals
+  apparel: -112.87104319262683  art: -133.15808002451027  camera: -127.51638504799321  event: -135.94024033775457  health: -134.1187397786248  home: -126.16957826554845  tech: -99.99761901571104 => tech
+Tweet: 309161548931276800	TREND MICR SERVERPROTECT 1.X ANNUAL MAINT ( SPZZLLE1XSBUPRNF ):  http://t.co/EKmo6RwQdZ #deals
+  apparel: -94.66705619563314  art: -67.26281329508814  camera: -86.93023153637805  event: -83.7126689260366  health: -71.8167726030089  home: -80.59129591995575  tech: -86.94198744580646 => art
+Tweet: 309161546913820672	Peterson Gas Logs 30 Inch Burnt Heritage Oak Vented Natural Gas Log Set With G4 Burner And Basic On/Off... http://t.co/JsrKtAGmxW #deals
+  apparel: -139.81063299484595  art: -138.920560984741  camera: -146.5470256327631  event: -139.51696542807562  health: -136.67726871225435  home: -128.84672555412408  tech: -128.76010510677625 => tech
+Tweet: 309161544753762304	Nook XEP-16-OPN Single Open Inch Excel Pillow Block, 1" Shaft Diameter:  http://t.co/Ws9ePfY5oZ #deals
+  apparel: -164.35153710246402  art: -152.7700914205004  camera: -139.32362105857854  event: -151.1412929746647  health: -157.93328878435187  home: -142.83614281123272  tech: -133.04372419606403 => tech
+Tweet: 309161543604514817	Israel (Modern World Nations):  http://t.co/iqkFn8gkmK #deals
+  apparel: -51.8516225665911  art: -62.159716305153744  camera: -63.907535510845705  event: -63.391341662576274  health: -62.542569998484495  home: -61.96121785162239  tech: -65.94923453625196 => apparel
+Tweet: 309161432715501568	#Canon EOS Rebel T3i 18 MP CMOS #Digital SLR #Camera+18-55mm Lens+#Canon 55-250mm Zoom http://t.co/tzIM9fayjJ  #photo #deals
+  apparel: -639.9698005719821  art: -615.0289397928354  camera: -369.5576958728498  event: -633.3593366540694  health: -624.8684870522076  home: -609.9568570435921  tech: -612.3267666775162 => camera
+Tweet: 309161348779085824	#Deals : The Twilight Saga: Breaking Dawn - Part Two (Blu-ray + Digital Copy + UltraViolet) (Widescreen) http://t.co/yajRJdDY9e
+  apparel: -318.4718606204615  art: -216.2256810782604  camera: -297.79784077088533  event: -298.5256450810155  health: -294.36163612512814  home: -304.34263988424266  tech: -294.7649920033023 => art
+Tweet: 309161334908526593	Deal of the Hour $17.50 -- Broadway's 'West Side Story' in Boise, Reg. $35: The classic musical is "a s... http://t.co/2ZgoQ46FZt #deals
+  apparel: -252.58948944717113  art: -271.4379383423428  camera: -276.75921754746344  event: -249.18149610196252  health: -261.00710440508635  home: -266.7741552357912  tech: -295.7967179607753 => event
+Tweet: 309161189039013890	#collisioncenter #marchmadness #savings #deals @Spradley_Barr @Krazy_Bitch23 @Ford @FordMustang @FordTrucks http://t.co/1tsPSFiWWO
+  apparel: -63.92028617371368  art: -62.159716305153744  camera: -63.907535510845705  event: -49.45199821477242  health: -50.473906391361915  home: -61.96121785162239  tech: -65.94923453625196 => event
+Tweet: 309160873459593217	#parts #marchmadness #deals #savings #ford @Spradley_Barr @Krazy_Bitch23 @Ford @FordMustang @FordTrucks http://t.co/fSoI9ZF19S
+  apparel: -63.92028617371368  art: -62.159716305153744  camera: -63.907535510845705  event: -49.45199821477242  health: -50.473906391361915  home: -61.96121785162239  tech: -65.94923453625196 => event
+Tweet: 309160480411365376	#service #marchmadness #deals #savings @Spradley_Barr @Krazy_Bitch23 @lincolnnewyork @for http://t.co/2uNxQ5zOA8
+  apparel: -63.92028617371368  art: -62.159716305153744  camera: -63.907535510845705  event: -49.45199821477242  health: -50.473906391361915  home: -61.96121785162239  tech: -65.94923453625196 => event
+Tweet: 309160449549672448	16x36 Custom Picture Frame / Poster Frame 2.375" Wide Complete Light Distressed Brown Frame (50032) http://t.co/9fl2sF5E1s #amazon #deals
+  apparel: -449.9969179295102  art: -346.023593371998  camera: -424.2384898918912  event: -448.26787076274104  health: -426.3613736431272  home: -430.0854214123335  tech: -444.61831289191576 => art
+Tweet: 309160448589185025	SterlingTek's POWWER Sony Cyber-shot DSC-T700/H Power Adapter http://t.co/HNf8yRmS3U #amazon #deals
+  apparel: -333.7024653156126  art: -311.2694624214034  camera: -272.8742398964959  event: -338.0389531669891  health: -333.5077318373324  home: -311.1164422311084  tech: -280.22652594721256 => camera
+Tweet: 309160447519629312	Hitachi DZ-BX37E Camcorder Battery Charger - TechFuel® AC &amp; DC Compatible Travel Battery Charger http://t.co/vYoTn4yk1b #amazon #deals
+  apparel: -690.7618448616909  art: -652.6945750940904  camera: -516.2436022012339  event: -666.1475085469032  health: -666.4464552167523  home: -659.1035587275509  tech: -653.9286188080018 => camera
+Tweet: 309160419468144640	Johnson &amp; Johnson Band-Aid WashProof Antiseptic – 10 Strips @ Rs.15: Buy Johnson &amp; Johnson... http://t.co/Z2Iet8qUmZ #DEALS #OFFERS
+  apparel: -527.8353501889836  art: -511.49645454098436  camera: -554.6252636161648  event: -532.0852768705422  health: -407.8587157737175  home: -489.1560632893196  tech: -526.9905323962431 => health
+Tweet: 309160373389496320	#coupon - FFCANVAS - Take 15% Off Sitewide with code FFCANVAS at FamousFootwear- Vali... - http://t.co/eOkBCqNkJN - #bargain #deals
+  apparel: -160.02758536495222  art: -178.1352389821249  camera: -207.5524937975484  event: -163.7782354682258  health: -158.88255759726266  home: -172.38749801317132  tech: -173.55763848469317 => health
+Tweet: 309160321262694400	SKECHERS SPORT Logo - Blue - http://t.co/BO2LpE31eM - #bargain #deals
+  apparel: -99.15248311881366  art: -116.92847272931431  camera: -111.98601157353559  event: -118.0408681431548  health: -117.83627396196219  home: -117.38938916589153  tech: -115.16964406326632 => apparel
+Tweet: 309160263091884032	Save Up To $400 on Electric Fireplace Entertainment Centers Plus FREE Shipping! - http://t.co/I79jcKLDK4 - #bargain #deals
+  apparel: -171.82976434343956  art: -192.12477780368712  camera: -198.3217827498767  event: -203.43139810792601  health: -168.96211057202171  home: -178.93731273061312  tech: -167.67580082248978 => tech
+Tweet: 309160224848232449	#discounts Hot Deals 4: Levi's 512 Misses Perfectly Slimming Boot Cut Jean with Tummy Slimm... http://t.co/wx5EEwUWTu #deals
+  apparel: -248.5197681552048  art: -343.82691935375203  camera: -366.45850237591804  event: -359.2701444237247  health: -342.8199707652676  home: -329.32932080856403  tech: -370.6014349437718 => apparel
+Tweet: 309160223753527297	#discounts Hot Deals 8: Gloria Vanderbilt Women's Amanda Denim in Silverpond New Women Jean... http://t.co/ShAfNIdWjo #deals
+  apparel: -202.19067641198683  art: -279.3560382417287  camera: -311.9217081536622  event: -292.7491767684166  health: -275.82549744265725  home: -272.14828076979944  tech: -292.71863381361226 => apparel
+Tweet: 309160217155866624	#discounts #deals Hot Deals 4: Levi's 512 Misses Perfectly Slimming Boot Cut Jean with Tummy ... http://t.co/1JPpGme8no best deal offers
+  apparel: -301.61912578435954  art: -410.72205298059987  camera: -444.05926203781513  event: -428.3656612195509  health: -408.90868064188163  home: -383.85230235867243  tech: -427.9355270404533 => apparel
+Tweet: 309160216119877632	#discounts #deals Hot Deals 8: Gloria Vanderbilt Women's Amanda Denim in Silverpond New Women... http://t.co/0a1ai5AwIz best deal offers
+  apparel: -233.7774036768771  art: -309.02174313625136  camera: -351.243225961236  event: -323.80221045135585  health: -304.3817942865461  home: -289.3793581561037  tech: -309.1571595678806 => apparel
+Tweet: 309160210130432000	Blue Nile Sweepstakes - 728x90 - http://t.co/xebHJqFMk1 - #bargain #deals
+  apparel: -62.1989342805307  art: -71.09456004192188  camera: -64.85965243691902  event: -82.46848315046853  health: -71.62935109302683  home: -71.47856169444206  tech: -64.82227423075166 => apparel
+Tweet: 309160174088769537	#amazon #deals Cool 9: Google Nexus 7 Tablet (16 GB) cool tablets http://t.co/EXvwyFGLwL Affi... http://t.co/ktK0HBj9EJ best deal offers
+  apparel: -411.188050259667  art: -408.39375767638904  camera: -425.5387862632823  event: -410.4101946638636  health: -427.1520195891397  home: -388.90621294512556  tech: -339.03682243590873 => tech
+Tweet: 309160173035986944	#amazon #deals Cool 10: Toshiba Satellite C855-S5343 PSCBLU-025003 15.6-Inch Laptop (Satin Bl... http://t.co/qfvTh4cnwP best deal offers
+  apparel: -293.36141748962143  art: -274.3741809904277  camera: -294.872055999663  event: -302.9362503391358  health: -293.1017919084317  home: -273.51873800013055  tech: -222.9342483039876 => tech
+Tweet: 309160171245015042	20% Off Kids Denim_20130223_8558_text - http://t.co/SlaxSNfAZl - #bargain #deals
+  apparel: -124.48801161859379  art: -138.27057829693638  camera: -147.51287704259033  event: -145.62466303815827  health: -131.64447933174569  home: -113.735632109243  tech: -133.2881649010692 => home
+Tweet: 309160131604672512	#coupon - JEWELS10 - $10 off Order Promo - Feb 2013 - http://t.co/2sqM1B3mC8 - #bargain #deals
+  apparel: -227.42817335017048  art: -230.25602528414805  camera: -247.71533297785348  event: -214.5323352823032  health: -195.54647770261195  home: -228.11249598933293  tech: -198.0365371673377 => health
+Tweet: 309160091842650112	#coupon - DL15 - 15% Off Coupon for Oopsy daisy Kids Room Decor - http://t.co/nnrSQglwZJ - #bargain #deals
+  apparel: -213.19246711818158  art: -233.70427171238092  camera: -245.23188683312125  event: -202.03136275790578  health: -214.46766747172464  home: -206.57105347541787  tech: -221.09220724767582 => event
+Tweet: 309160048532271104	4WD - Free Winch Cover - Smittybilt - http://t.co/PxdiXpyKD4 - #bargain #deals
+  apparel: -100.8123686049039  art: -107.16449963971672  camera: -104.98474427384373  event: -112.6309246161754  health: -104.95848876339187  home: -89.6554595619405  tech: -89.20607958727226 => tech
+Tweet: 309160009768513536	Seuss On the Loose- 300 x 250 - http://t.co/UMuEJu9pOM - #bargain #deals
+  apparel: -167.4608103414385  art: -160.99019016524713  camera: -167.96260615884617  event: -175.25937362591156  health: -151.61731808115135  home: -136.70494926612017  tech: -163.66012225389443 => home
+Tweet: 309159971625521152	Get More Bang for Your Buck with SKECHERS Elite Rewards Points! - http://t.co/v0keo8Tk0O - #bargain #deals
+  apparel: -125.33791698206593  art: -130.84346733532163  camera: -141.6610102890761  event: -129.52038694347118  health: -115.04927478946355  home: -114.08749965318827  tech: -130.9944030919503 => home
+Tweet: 309159933012754433	Blink Sneaker Wedges 120x400 - 2 - http://t.co/Scbv0YUs3G - #bargain #deals
+  apparel: -51.48308040817586  art: -59.59215191268753  camera: -62.610753235672576  event: -57.078615806250255  health: -61.42438451834425  home: -53.83319620579434  tech: -50.35342409508903 => tech
+Tweet: 309159892177010691	Eddie Bauer Rain Event: All Rainwear 25% Off - http://t.co/PDRJWhPaHC - #bargain #deals
+  apparel: -100.92777395841168  art: -128.4195216505429  camera: -137.17270789579425  event: -127.23647755965203  health: -123.8956994358915  home: -110.42338902340396  tech: -121.76825387664238 => apparel
+Tweet: 309159854335991808	Save up to 97% off with daily deals on men's fashion and accessories from brands like... - http://t.co/rpzHXx4qco - #bargain #deals
+  apparel: -207.80074864624137  art: -287.60046256269635  camera: -308.3757494041801  event: -282.01612661345945  health: -282.4352576385341  home: -269.9146604386692  tech: -289.5254882559966 => apparel
+Tweet: 309159832106172416	travel with renee @ http://t.co/7Ucz7Z0yV6: Travel Deals of the Week!! http://t.co/WqRvZm5mWs #cruise #vacation #ttot #deals
+  apparel: -202.34174567274445  art: -184.97422279244552  camera: -201.46175189534685  event: -156.6750425956263  health: -197.13467940396828  home: -207.30340860624517  tech: -224.5081726405285 => event
+Tweet: 309159816142680065	Wedding-120x60 - http://t.co/RlXq1J5JOd - #bargain #deals
+  apparel: -78.91456458795285  art: -75.39662512905358  camera: -81.41751052236766  event: -77.18089948535271  health: -88.05408679718339  home: -78.12585079421028  tech: -81.84649266011687 => art
+Tweet: 309159777475387392	Dining Room Furniture at Warehouse Prices - http://t.co/D2dXBiXA1I - #bargain #deals
+  apparel: -120.44919297205892  art: -126.94788323000793  camera: -122.01345397699517  event: -117.52575530046238  health: -127.85800253278603  home: -103.65910564433544  tech: -125.21710342350809 => home
+Tweet: 309159739156213763	Primary Banner - http://t.co/jVIF4kZ9j8 - #bargain #deals
+  apparel: -28.32825031307904  art: -39.378210287277135  camera: -31.974449785446797  event: -40.11230979232076  health: -39.57566122537056  home: -29.958076479783525  tech: -29.024078406624014 => apparel
+Tweet: 309159700606382080	One-Stop Wedding Solution at LightInTheBox-Find Whatever Wedding Needs-Make Deal Now! - http://t.co/z0QcddUJEW - #bargain #deals
+  apparel: -248.6401617369256  art: -237.59918044978454  camera: -278.4046676896161  event: -268.270433760845  health: -272.83221882966257  home: -278.5488238974866  tech: -282.6342994540778 => art
+Tweet: 309159659061792768	half-banner_234x60 - http://t.co/Zief1QpVeb - #bargain #deals
+  apparel: -82.25527261766409  art: -90.6409478329565  camera: -84.68271836336221  event: -92.4945754838864  health: -76.01913653569878  home: -81.30683902654431  tech: -85.33487219467858 => health
+Tweet: 309159620197355520	CreditCards - 120 x 600 - All Cards Multi Colored Banner - http://t.co/Yg9bp6ind7 - #bargain #deals
+  apparel: -152.87680715596557  art: -149.3953775275866  camera: -164.3815534081145  event: -163.5884991206444  health: -158.75281559489255  home: -148.30331566011267  tech: -170.48099416829322 => home
+Tweet: 309167523486658561	Serenata Hampers: 5% #voucher code - 5% off all items at Serenata Hampers using #discount code. Ends: 03/31/13 http://t.co/PsWwnW1RVm
+  apparel: -355.0345298641713  art: -378.4733158625976  camera: -454.28163113671184  event: -366.8377511284361  health: -382.28662877833455  home: -403.8712747523567  tech: -414.8077566538955 => apparel
+Tweet: 309167342779236352	RT @TopUKDeals: Strawberry Blushes: 15% #voucher code - 15% #discount on Minna Ola from Strawberry Blushes using voucher code.… http://t.co/04Iw1crdhq
+  apparel: -230.45483229594294  art: -238.54337914604054  camera: -291.9561434852317  event: -228.21174541182435  health: -219.3729480015686  home: -261.43382176930345  tech: -266.87781783425737 => health
+Tweet: 309166463242092546	#WhatiDoWhenIAmAlone Rebate: Up to $120 Back on Select Monroe or Rancho Products http://t.co/blyv91JDcG #Discount
+  apparel: -240.67306507484238  art: -252.3543297377787  camera: -262.4710971791208  event: -257.6939771918094  health: -242.41357354601814  home: -242.94394313948834  tech: -256.8103178193823 => apparel
+Tweet: 309166460943626241	#WhatiDoWhenIAmAlone Buy A BOB Revolution SE Single Stroller, Get A Free Snack Tray http://t.co/MvZYv8mXiA #Discount
+  apparel: -152.15504790078833  art: -140.2670063964519  camera: -169.4579748921684  event: -153.72794055996567  health: -138.2894925542885  home: -139.88816730322273  tech: -146.43168628747117 => health
+Tweet: 309165010440052737	Heart Internet: 20% #voucher code - Take 20% #discount on Linux Dual Core Dedicated Servers from Heart Internet… http://t.co/Cv2ZiWUsQL
+  apparel: -280.93304797090326  art: -281.48535846706505  camera: -324.1547871522348  event: -284.7298341765221  health: -264.98235355658386  home: -300.0974595173522  tech: -284.2261032739342 => health
+Tweet: 309164996754018304	Marsdens Cottage Holidays: £25 #discount code - £25 off weekly cottages holidays in South West from Marsdens… http://t.co/wbAKYXe96g
+  apparel: -302.121109807837  art: -312.81193595870803  camera: -339.93294764262953  event: -281.9082775430407  health: -300.7691525350721  home: -299.5681781884979  tech: -319.67189443955 => event
+Tweet: 309164979557367809	One2Own: 30% #voucher code - Grab 30% #discount from One2Own using voucher code. Ends: 03/08/13 http://t.co/CyNoaom4Hm
+  apparel: -359.78485794864764  art: -388.6494302301767  camera: -441.3512926664412  event: -357.2207075734963  health: -360.7092957767264  home: -422.080297011439  tech: -394.73862611672257 => event
+Tweet: 309164884950671360	SAVE $28.96 - HDE Xbox 360 HDMI + Audio Dongle Adapter &amp; Cable $3.03 http://t.co/eRXGnZaQMC #discount #xbox
+  apparel: -273.8842616429554  art: -267.1043669155625  camera: -282.0308941519684  event: -265.3698627690216  health: -266.49615293662055  home: -264.2466959353542  tech: -209.93973691210465 => tech
+Tweet: 309164699705016320	Tim#hotel Italie - Bercy,#Paris, #Discount -10% for double room for 1 ngh from 08Mar(new rate – 59€,9€ off) http://t.co/RrjBYcPAJO
+  apparel: -344.3236844323699  art: -338.43911906794546  camera: -377.19067183530626  event: -284.92309874247746  health: -334.1948864772175  home: -356.2792393780154  tech: -363.1631317353957 => event
+Tweet: 309164551805489155	#Karaoke &amp; #Hoteliers night at #Moodz, offering all Hoteliers 50% #discount. who is joining? at Al Ain #Rotana #Hotel http://t.co/B1GFd3U6D2
+  apparel: -373.5638503307417  art: -336.86852445706836  camera: -380.3128506849163  event: -275.5126907696952  health: -365.56234302611495  home: -349.7060638613318  tech: -389.4144867744999 => event
+Tweet: 309164467252498432	Get $36 Off PRO Plan @ iPower #coupons #discount #ipower http://t.co/MpI0xg7Zoj
+  apparel: -132.6775050858158  art: -137.4139230323261  camera: -157.2269346679297  event: -137.09923580027663  health: -129.53268323262813  home: -127.6911191035897  tech: -127.2391958619227 => tech
+Tweet: 309164046005977088	Rubber Sole: 10% #voucher code - £65 min spend - 10% off when you spend above £65 at Rubber Sole using #discount… http://t.co/gHpMWy2X7E
+  apparel: -359.25149934595413  art: -329.4564489592217  camera: -395.68150308288426  event: -315.61098479788023  health: -332.2910362464517  home: -312.81743590498564  tech: -377.4268141373261 => home
+Tweet: 309164029014835200	Printerinks: 10% #voucher code - 10% off ink and toner (excl OEM) at Printerinks using #discount code. Ends: 03/23/13 http://t.co/KUQw8Q0Ujw
+  apparel: -427.56065913934685  art: -449.8759819651284  camera: -499.35717230779704  event: -425.5731198683815  health: -417.36786037921945  home: -458.84038969167943  tech: -425.44450815107547 => health
+Tweet: 309164016159301632	Swishlife: £5 #discount code - #free delivery - £5 off any order + FREE delivery at Swishlife using discount code.… http://t.co/Ry8KMeTBsy
+  apparel: -229.03955792769298  art: -213.13519479251136  camera: -279.8320898991158  event: -233.81460166888274  health: -215.92587978318056  home: -233.44515916929953  tech: -236.53965608753202 => art
+Tweet: 309163449227812866	Jewellery &amp; Watches: 593 stores offering 412 #discount codes - Save money instantly! http://t.co/coV83ZQ9ea
+  apparel: -145.93438111979373  art: -147.5477123509455  camera: -171.5119057495304  event: -143.4657754104681  health: -158.13339234524818  home: -156.57832728089963  tech: -164.80283120213898 => event
+Tweet: 309163235242811392	Just got off of work !!😄😬👌✨💰💵 #Tired #Jack #In #The #Box #Discount #Bitches http://t.co/VRwYv98fsG
+  apparel: -174.36379773992178  art: -171.03780891136233  camera: -192.95026950347892  event: -179.291674879524  health: -171.55002046606444  home: -170.4221536816236  tech: -170.08341667318177 => tech
+Tweet: 309162918497357825	Let's go shopping! Use code JESSICA for 20% off of your order from @BHBaubles! #discount @jayemmtee http://t.co/10dzHkuuib
+  apparel: -270.5600984570128  art: -273.8413505741345  camera: -318.8516400659227  event: -267.7576699033801  health: -255.20315510874104  home: -262.6843711722294  tech: -280.433315972328 => health
+Tweet: 309162837018820609	#Hotel Staybridge Suites St. Petersburg,#Saint-Petersburg,19608-10% #discount 2838RUB for 09Mar for double room http://t.co/GKxk6z0jSf
+  apparel: -138.71576451873267  art: -129.27852054638285  camera: -139.66379584391441  event: -103.7786981320058  health: -131.43566942308064  home: -123.27748537721995  tech: -138.58612344196206 => event
+Tweet: 309162504418885632	Snapfish: #free adv - 100 FREE prints when you order 50 or more at Snapfish using #discount code. Ends: 03/31/13 http://t.co/haw9HCqEuM
+  apparel: -516.2218742491337  art: -487.38657181225767  camera: -567.9816757090748  event: -497.58755280668123  health: -472.69593047392175  home: -498.50687397012814  tech: -518.1140788845019 => health
+Tweet: 309162325993213952	Weekly Deal 1 – Texas Instruments TI-Nspire Touchpad Graphing Calculator http://t.co/nnOw4QmZe6 #discount #promo
+  apparel: -117.82525453612637  art: -97.54102074303003  camera: -111.58259566771949  event: -105.54743053021997  health: -93.29622425545485  home: -115.90682673449403  tech: -98.0991846644047 => health
+Tweet: 309162324864946177	Weekly Deal 2 – Lexmark X544N Multifunction Printer on Sale. http://t.co/TjNRTVkCHm #discount #promo
+  apparel: -178.41149477067324  art: -172.2907790269476  camera: -198.6911551254148  event: -181.19568164914878  health: -166.13886965453742  home: -180.9205255043829  tech: -155.22978078728164 => tech
+Tweet: 309162323719901184	Weekly Deal 3 – Basyx VL301 Fixed Arms Nesting Chair http://t.co/dUEAZEO61B #discount #promo
+  apparel: -116.32307094049051  art: -103.00758232550388  camera: -108.16820970286489  event: -104.65762219049634  health: -90.44326496954619  home: -107.89305853640508  tech: -93.68725637804837 => health
+Tweet: 309162322625187840	Weekly Deal 5 – Quartet Prestige Plus Markerboard on Sale. http://t.co/LjJNCCbCwv #discount #promo
+  apparel: -174.48265901419975  art: -173.81324697063047  camera: -199.5108112962438  event: -188.58163175985152  health: -163.86990393706697  home: -176.24486728421203  tech: -157.56919798538735 => tech
+Tweet: 309162320913920000	Weekly Deal 4 – Lorell 44553 Floor Fan on Sale. http://t.co/upnrwGVBPD #discount #promo
+  apparel: -130.6410333467386  art: -122.77906442211363  camera: -143.85512945223516  event: -135.37390320211583  health: -126.65397208797545  home: -129.12104090046967  tech: -118.75859517269681 => tech
+Tweet: 309161379041013760	Battpit™ Laptop / Notebook Battery Replacement for Sony VAIO VGN-AR18CP (6600 mAh) with FREE 8... http://t.co/RmGg39GjEH #discount #deal
+  apparel: -300.6865398811108  art: -281.660562310308  camera: -268.7429955117553  event: -295.85461314733175  health: -290.25432106153613  home: -280.46606403669864  tech: -231.3950536669867 => tech
+Tweet: 309161377996623874	George Harper H&amp;B Lville Slugger Game Used Bat 1916-29 - Game Used MLB Bats: George Harper H&amp;B... http://t.co/gowac0VzN2 #discount #deal
+  apparel: -384.2171187452911  art: -382.36584735744947  camera: -396.57877931329045  event: -368.7676768177889  health: -402.23376046256686  home: -396.5401768760517  tech: -392.77877875864476 => event
+Tweet: 309161376826392576	Waterhog Grand Premier Floor Mat - One End: Cleated Back - 6' x 19.3' - Regal Red: This bar fl... http://t.co/omf8G9Y7dG #discount #deal
+  apparel: -308.61033801431273  art: -290.43462649805457  camera: -335.7555340777103  event: -341.74542768016687  health: -299.5499620544787  home: -305.08638737047846  tech: -309.15458150149993 => art
+Tweet: 309161374741843968	8000K BLUE HID HEADLIGHT KIT H4 Suzuki GSX-R750 96-06: Xenon HID conversion kit offering True ... http://t.co/sm7zZD7o70 #discount #deal
+  apparel: -233.20263061849775  art: -208.14646379771796  camera: -231.16162989444845  event: -212.48287561468464  health: -213.34510710512077  home: -235.037155781103  tech: -222.431778319919 => art
+Tweet: 309161373546475521	Home Decor King Size Bedspread with Elephant Patch &amp; Thread Work Cotton Bed Sheet Bedspread Ta... http://t.co/2UIOqmwNOQ #discount #deal
+  apparel: -376.36771650310885  art: -382.6435942519159  camera: -384.4417771443994  event: -377.3175257090647  health: -389.26411032698684  home: -347.30857772636443  tech: -399.47217133689685 => home
+Tweet: 309160210277232640	#discount #deal Hot Deals 4: Levi's 512 Misses Perfectly Slimming Boot Cut Jean with Tummy Slim... http://t.co/LySoseRF9Z Best Buy Price
+  apparel: -368.30573152232336  art: -462.22436732287  camera: -502.38779272826076  event: -493.88789803354615  health: -476.1638323022807  home: -444.3305669189052  tech: -491.1046305305181 => apparel
+Tweet: 309160208561758208	#discount #deal Hot Deals 8: Gloria Vanderbilt Women's Amanda Denim in Silverpond New Women Jea... http://t.co/7dKF3beuzK Best Buy Price
+  apparel: -264.7331732546352  art: -316.4378362361157  camera: -374.8890550431293  event: -344.2754259874875  health: -327.1919377621866  home: -305.6974195250213  tech: -334.54537100835364 => apparel
+Tweet: 309160166518038528	#bestdeal Cool 9: Google Nexus 7 Tablet (16 GB) cool tablets http://t.co/n56NmiBb0C Affili... http://t.co/oYAySW8ONb #discount
+  apparel: -338.29809791533376  art: -330.367942962849  camera: -337.785944608327  event: -319.74488875202746  health: -343.8349072008633  home: -325.0543180076104  tech: -274.69952193611647 => tech
+Tweet: 309160165423345666	#bestdeal Cool 10: Toshiba Satellite C855-S5343 PSCBLU-025003 15.6-Inch Laptop (Satin Blac... http://t.co/HxLbaisaEg #discount
+  apparel: -220.47146514528814  art: -196.34836627688767  camera: -207.11921434470773  event: -212.27094442729975  health: -209.78467952015532  home: -209.66684306261544  tech: -158.59694780419525 => tech
+Tweet: 309160123446726656	Twitter Coupon! 10% off complete order - "TWMC" at checkout #Discount #Save #Coupon http://t.co/hAZ7hn5kjI
+  apparel: -213.27414276222925  art: -195.34047517224235  camera: -244.48729244127986  event: -202.40323720562273  health: -183.63297649065788  home: -217.80632531445036  tech: -190.38773137962804 => health
+Tweet: 309159270300135424	Only 5 days remain for our Winter Sale http://t.co/9TbpeLbsYK #yyj #victoriabc #Canada #fashion #sale #discount
+  apparel: -297.39085001459205  art: -314.27373606661126  camera: -363.92874185683564  event: -326.28894245688673  health: -347.6784551568136  home: -332.3418255908599  tech: -324.0717837819389 => apparel
+Tweet: 309156357758656512	When I miss Indonesia shoud I buy it? #questionmark #discount #indomie #indofood #tetepmahal #gakworthit… http://t.co/rn88FxcIay
+  apparel: -151.61380280650224  art: -140.44249655399676  camera: -175.20673745127846  event: -159.70685564080702  health: -161.61722777314347  home: -145.65591082486617  tech: -173.04722838931846 => art
+Tweet: 309155397527285762	Music, Movies &amp; DVDs: 181 online stores offering 108 #discount offers - Save money now! http://t.co/VS1XB47c4p
+  apparel: -307.0274050078807  art: -284.1137289522233  camera: -331.9141086269175  event: -302.8279630800621  health: -305.5487050619413  home: -310.6849963696335  tech: -301.52987267713326 => art
+Tweet: 309154920018345984	Darlings of Chelsea: 3 DAYS 2go! 10% #voucher code - 10% #discount on Sandhurst leather sofa from Darlings of… http://t.co/HrhJE1wuki
+  apparel: -284.27508231001866  art: -264.9754043922542  camera: -303.1474991026727  event: -263.95146091177446  health: -270.0597334041044  home: -288.19876347874344  tech: -271.6444502984162 => event
+Tweet: 309154757933662209	(アマゾンで売れてます)てっぺんとったんで! 通常盤Type-M【スペシャルイベント応募券封入】(初回プレス盤)(DVD付) 【スペシャルイベント応募券(大阪・東京で開催するスペシャルライブに抽選でご招待! !)… http://t.co/HU2fzN1mYE #discount
+  apparel: -102.67258099849607  art: -97.92181432436588  camera: -117.01421745550965  event: -101.82023150499177  health: -115.67318180200564  home: -113.38175207043498  tech: -99.42496378510057 => art
+Tweet: 309154412289486848	Day2dayshop: 10% #voucher code - 10% off printer ink cartridges at Day2dayshop using #discount code. Ends: On-going http://t.co/EARYHHZZ0P
+  apparel: -260.8315820233246  art: -268.38531788610624  camera: -312.7487482427112  event: -254.1344730116872  health: -246.46883423817826  home: -277.045162584595  tech: -268.7268478275746 => health
+Tweet: 309154399249375233	Serenata Hampers: 5% #voucher code - 5% off all items at Serenata Hampers using #discount code. Ends: 03/31/13 http://t.co/x8XSlid4me
+  apparel: -355.0345298641713  art: -378.4733158625976  camera: -454.28163113671184  event: -366.8377511284361  health: -382.28662877833455  home: -403.8712747523567  tech: -414.8077566538955 => apparel
+Tweet: 309153431455686656	EasySpace: £3.52 #discount code - Spend only £5.98 for .org.uk 2 year domain registration (worth £9.50) at… http://t.co/CmShUxLH8L
+  apparel: -190.041790756244  art: -162.19021775835574  camera: -193.12173220730585  event: -161.12980532798395  health: -181.5117886370697  home: -170.461129449342  tech: -179.33203325639826 => event
+Tweet: 309153392649986048	#Hotel #Discount on Hilton San Diego Resort &amp; Spa | http://t.co/Epk7Mjo0Tu http://t.co/FMNViUdXD8
+  apparel: -189.76813463439004  art: -183.47788537835382  camera: -190.33022389947874  event: -151.00646765296668  health: -170.4143615162909  home: -174.0927456794529  tech: -196.7697354759782 => event
+Tweet: 309152963149066241	check out amazing daily deals on outdoors gear!! http://t.co/L9ZGW4NGL8 #discount #special #deal
+  apparel: -137.31081748357866  art: -119.29097467795765  camera: -132.2906035473565  event: -120.99835010937896  health: -143.70612718243535  home: -142.23241248427138  tech: -141.86912574330017 => art
+Tweet: 309152864540966912	For my lovers of fashion #fashion #hm #discount #promotion #metro #spring #styling #model http://t.co/Vn7KZtINhi
+  apparel: -260.7895100785116  art: -277.1896755238166  camera: -288.00676184684227  event: -269.8444971896468  health: -283.3296580205198  home: -279.96388037991795  tech: -279.77048525089265 => apparel
+Tweet: 309152345068011520	#toyota #camry #discount #sale #cars Toyota Blinks on Camry Discounts After Sales Drop: Cars http://t.co/p0mryFKM5u via @BloombergNews
+  apparel: -191.03195337820063  art: -206.26203866409298  camera: -225.90230292878113  event: -231.0257295774902  health: -224.95231721499945  home: -208.6951717843295  tech: -221.6694794196213 => apparel
+Tweet: 309152176800940032	@SylviaCox3 - #Duty Free Prices - 60% #Discount - #Cosmetics - #Perfume - #Cigarettes - http://t.co/KKVuowK3BG - NO TAX - #Free Ship
+  apparel: -144.50391750077867  art: -144.1851388803114  camera: -155.93633230205953  event: -142.02683740778707  health: -119.4503125502728  home: -151.06340766517732  tech: -147.9710557241737 => health
+Tweet: 309151995384696832	#Duty Free Prices - #Cosmetics - #Perfume - #Cigarettes - NO TAX - http://t.co/KjI5FFApND - #Free Worldwide Shipping - 60% #Discount
+  apparel: -168.5867383309915  art: -170.65946119393033  camera: -183.35897803055622  event: -176.39159884969013  health: -140.90171575335825  home: -184.75015167977398  tech: -175.20680206983747 => health
+Tweet: 309151665892782080	2 meter Category 6 Cat6 Shielded Hospital Grade Ethernet Network Patch Cable Cord for Internet... http://t.co/uMB2TTvCCp #discount #deal
+  apparel: -143.686695301008  art: -120.85152517238414  camera: -151.89353550543728  event: -134.68750729994235  health: -130.2101971669844  home: -128.11593771605766  tech: -117.29539890922109 => tech
+Tweet: 309151662184992768	4 Port SATA3G Controller: Promise Combo Controller SATA-300/ATA-133 3-Ports PCI Low Profile SA... http://t.co/LcHS6qnvP8 #discount #deal
+  apparel: -241.09611260492886  art: -215.71787893127072  camera: -229.9809680903693  event: -220.91153695563384  health: -219.43107323330605  home: -222.2150697588057  tech: -218.04318186862653 => art
+Tweet: 309151660993835008	Magnum Premium Almond, Vanilla &amp; Chocolate bar, 3.30 Oz (Pack of 12): For the nut lovers out t... http://t.co/YLS13EqYXH #discount #deal
+  apparel: -331.0635134129795  art: -326.1342019113822  camera: -346.6616051693079  event: -337.4386970363489  health: -332.5756346779526  home: -333.0602640628779  tech: -324.26957206784783 => tech
+Tweet: 309151659311890432	NRG ST-015R STEERING WHEEL + HUB + QUICK RELEASE - 97-99 AUDI A6: "NRG GEN 2.5 Quick Release S... http://t.co/wh8AwcI9fx #discount #deal
+  apparel: -104.7684941931507  art: -105.22497037811607  camera: -108.86504748163134  event: -116.11519640813805  health: -93.83568853849525  home: -116.9097155357405  tech: -114.16361459715742 => health
+Tweet: 309151617301757952	7% off all Wyndham Furniture Orders  #Discount: http://t.co/AjMFYnru6S: 7% off  http://t.co/gLxhgxXJkD #Coupon
+  apparel: -151.70745869305168  art: -173.28435026815418  camera: -197.07832418113196  event: -142.91677262402206  health: -168.46564146699896  home: -179.49413884682227  tech: -156.42347804168057 => event
+Tweet: 309151546921349121	Save 15% on orders of Jael and Talon Light ... #Discount: http://t.co/AjMFYnru6S: Save 15% http://t.co/WAiLqYZ9LN #Coupon
+  apparel: -172.7752007649678  art: -179.28665610189398  camera: -207.0998260429458  event: -160.76829274910895  health: -150.08884607459606  home: -175.08003997480688  tech: -175.22964564564768 => health
+Tweet: 309151507364859905	Fish McBites http://t.co/HVIFQg2WeC Over 40% Off the Lorex LW292 Video Monitoring System #Discount
+  apparel: -180.05114163019408  art: -161.99080585562203  camera: -180.42515172702866  event: -176.51839257592331  health: -166.70964870424208  home: -176.24599877256105  tech: -158.65014242924343 => tech
+Tweet: 309151324363161600	Save 10% on order of Steve Silver Granite Bello ... #Discount: http://t.co/AjMFYnru6S: Save 10%  http://t.co/athaM1hAnX #Coupon
+  apparel: -198.5296240769971  art: -198.1389074574517  camera: -230.68708080691906  event: -197.79112374597173  health: -177.71750207903398  home: -197.38722151163415  tech: -192.9510070551128 => health
+Tweet: 309151298417221632	Save an extra 11% Sitewide for Spring Break.  #Discount: http://t.co/j9sC4mgkrX: 11% Off http://t.co/7fU8AavGK2 #Coupon
+  apparel: -243.30034581926168  art: -261.7559653797971  camera: -283.28564102025456  event: -218.5618454082787  health: -246.33411680478935  home: -259.2163399656371  tech: -248.02761722125268 => event
+Tweet: 309151168716742656	5% off All Dining Room Sets   #Discount: http://t.co/AjMFYnru6S: 5% off  http://t.co/xL6AKYo1Fk #Coupon
+  apparel: -230.7460882091345  art: -242.13004182251024  camera: -280.7440594723632  event: -221.1911410579105  health: -250.49905648570558  home: -230.80039399437024  tech: -251.9110812767234 => event
+Tweet: 309151156192559104	Get 10 free mineral eyeshadows when ... #Discount: http://t.co/QhqdSxEhdf: Free Mineral eyeshadow http://t.co/6CvgBburo5 #Coupon
+  apparel: -191.28476931628262  art: -184.5030467874456  camera: -208.6892217001982  event: -167.1056114860645  health: -167.3363420714328  home: -187.55107099241278  tech: -189.71223788180507 => event
+Tweet: 309150288873414658	Scosche GM22SR LAN Stereo Replacement Interface with Non OnStar for 2006-Up GM: 2006-Up GM LAN... http://t.co/MuR7IrkDbn #discount #deal
+  apparel: -171.4518842948644  art: -176.05621515059198  camera: -174.83631960432965  event: -181.54973355247722  health: -182.51436217317882  home: -151.53741675567497  tech: -150.3581365731115 => tech
+Tweet: 309150287858372609	SterlingTek's POWWER Compaq Presario V3177TU Extended 9600mAh Laptop Batteries: "This POWWER h... http://t.co/ERTse4boIE #discount #deal
+  apparel: -205.81624180002288  art: -197.25241593846823  camera: -217.2859808309532  event: -213.15600816007415  health: -213.69686278645275  home: -212.03591014013716  tech: -163.9798635347745 => tech
+Tweet: 309150286889488385	Battpit™ Laptop / Notebook Battery Replacement for Acer Aspire One A150-1249 (6600mAh / 73Wh):... http://t.co/Cbowk2WCfq #discount #deal
+  apparel: -241.8871973733934  art: -230.58077941397354  camera: -227.99817855859553  event: -248.17893710451992  health: -240.32734481332193  home: -234.02469952894498  tech: -190.02710120991648 => tech
+Tweet: 309150285769629696	Christian Prayer: The Liturgy of the Hours: This volume is liturgically accurate, magnificentl... http://t.co/T5LzVb0nGX #discount #deal
+  apparel: -87.0784845142069  art: -65.91261873704391  camera: -88.55989964218713  event: -85.22610326675965  health: -87.48223017571756  home: -86.63006481691325  tech: -87.75311560409764 => art
+Tweet: 309149997084053506	#Duty Free Prices - #Cosmetics - #Perfume - #Cigarettes - NO TAX - http://t.co/fF6Y6u8dZy - #Free Worldwide Shipping - 60% #Discount
+  apparel: -168.5867383309915  art: -170.65946119393033  camera: -183.35897803055622  event: -176.39159884969013  health: -140.90171575335825  home: -184.75015167977398  tech: -175.20680206983747 => health
+Tweet: 309148990501425152	Limited Time Offer : Buy 1 Free 1 Cloud Server http://t.co/eLImxcMkT7 #cloud #webhosting #server #promotion #free #discount #offer #host
+  apparel: -292.99636589605154  art: -254.98694728323355  camera: -290.9464675697479  event: -271.11295197820345  health: -262.57506347645244  home: -256.339905093585  tech: -263.58874956760803 => art
+Tweet: 309148877058105344	iSupp: NEW voucher codes added - 5 #discount codes with big savings! http://t.co/agWqZ9586J
+  apparel: -145.63847715925024  art: -159.7348281099547  camera: -182.40888228155845  event: -139.172979496869  health: -147.3722923087412  home: -165.64453668922465  tech: -167.41418106121782 => event
+Tweet: 309147188653604865	RT @CouponsUK: BLT Direct: TOP #deal! 5% #voucher code - 5% off your 1st order at BLT Direct using #discount code. Ends: On-going http://t.co/navls104sb
+  apparel: -428.6128975365578  art: -414.77982721702773  camera: -501.5522593829607  event: -428.19928012915256  health: -380.1088009095722  home: -431.4628639615864  tech: -456.47267864899 => health
+Tweet: 309147184165703681	RT @CouponsUK: Honey Tree Publishing: TOP #deal! 5% #voucher code - Take 5% #discount from Honey Tree Publishing using EXCLUSIVE… http://t.co/1yt9Izj8Fv
+  apparel: -514.6565828918758  art: -496.5198052606631  camera: -575.6135662324994  event: -516.1631436655285  health: -496.65197973575664  home: -530.2993731250749  tech: -568.4620281156632 => art
+Tweet: 309147170794246146	RT @PrizeDrawsUK: Hosting24: $24 #discount code - $24 discount on one year subscrition or $2 discount on one month subscription at… http://t.co/D356vhjs2i
+  apparel: -249.5559640608527  art: -218.7972324751166  camera: -278.6810845483269  event: -260.4362479978941  health: -246.54759519204626  home: -265.31166027362514  tech: -248.15815838825065 => art
+Tweet: 309146915201744897	Hosting24: $24 #discount code - $24 discount on one year subscrition or $2 discount on one month subscription at… http://t.co/D356vhjs2i
+  apparel: -218.21711222825903  art: -189.42872936201744  camera: -239.70114099982982  event: -221.69739706065928  health: -216.8705616495666  home: -227.33712763650925  tech: -215.05640899963498 => art
+Tweet: 309146880032534528	Honey Tree Publishing: TOP #deal! 5% #voucher code - Take 5% #discount from Honey Tree Publishing using EXCLUSIVE… http://t.co/1yt9Izj8Fv
+  apparel: -483.3177310592822  art: -467.1513021475639  camera: -536.6336226840023  event: -477.42429272829366  health: -466.974946193277  home: -492.324840487959  tech: -535.3602787270474 => health
+Tweet: 309146867051143169	BLT Direct: TOP #deal! 5% #voucher code - 5% off your 1st order at BLT Direct using #discount code. Ends: On-going http://t.co/navls104sb
+  apparel: -397.27404570396413  art: -385.41132410392856  camera: -462.5723158344636  event: -389.4604291919177  health: -350.4317673670926  home: -393.4883313244705  tech: -423.37092926037434 => health
+Tweet: 309146373427707904	Evans Cycles: NEW voucher codes added - 9 #discount offers with huge savings! http://t.co/BhFVDElP8T
+  apparel: -177.81465069745428  art: -199.4490038252989  camera: -213.17659191428706  event: -172.92897572466842  health: -167.67116945944474  home: -194.2803342956683  tech: -199.34108272364492 => health
+Tweet: 309146356084273153	timetospa (Elemis): NEW voucher codes added - 5 #discount offers with big savings! http://t.co/uCNyKaNsWw
+  apparel: -168.5640590671219  art: -186.20915042357365  camera: -216.9875140337827  event: -173.53774093877206  health: -171.57001506280562  home: -189.6250015455696  tech: -191.9036078559026 => apparel
+Tweet: 309146339034402817	Euroffice: NEW voucher codes added - 7 #discount offers with huge savings! http://t.co/0Rm9fSZItm
+  apparel: -177.8146506974543  art: -199.4490038252989  camera: -221.49409466674683  event: -172.92897572466842  health: -175.98867221190451  home: -205.4604973605565  tech: -192.40241564159976 => event
+Tweet: 309146198529429504	Let's go shopping! Use code JESSICA for 20% off of your order from @BHBaubles! #discount @jayemmtee http://t.co/teN8ogZ615
+  apparel: -270.5600984570128  art: -273.8413505741345  camera: -318.8516400659227  event: -267.7576699033801  health: -255.20315510874104  home: -262.6843711722294  tech: -280.433315972328 => health
+Tweet: 309146161665691650	SAVE $9.00 - Turtle computer mouse $10.99 http://t.co/qxO7JYILvN #discount #mouse #ad
+  apparel: -94.01015438032314  art: -92.43991656997565  camera: -103.82656352388709  event: -90.95966936414476  health: -91.92913194441081  home: -92.79551529650927  tech: -76.780777963957 => tech
+Tweet: 309145895579029504	RT @indiacoupons: eShakti: Save on spring/summer dresses. Expires 3/20/2013 http://t.co/TPS8hrvrc5 #discount #offer
+  apparel: -307.2296909705814  art: -304.13294573093197  camera: -336.61804952358045  event: -284.70790085868094  health: -298.29845321650896  home: -297.31708847679124  tech: -309.57081150000596 => event
+Tweet: 309145651311153152	eShakti: Save on spring/summer dresses. Expires 3/20/2013 http://t.co/TPS8hrvrc5 #discount #offer
+  apparel: -275.89083913798777  art: -274.7644426178328  camera: -297.63810597508336  event: -245.96904992144601  health: -268.6214196740293  home: -259.34255583967536  tech: -276.4690621113903 => event
+Tweet: 309145348146860032	TEKLYNX L8UPRPROS LV PRO RUNTIME V8 TO PRO V8.01: L8UPRPROS by Teklynx Labelview Pro Runtime V8 To V8 http://t.co/XzKJofUddM #discount
+  apparel: -106.05489772258532  art: -99.96135797295543  camera: -105.78087598269182  event: -101.97289168795791  health: -104.6590030599096  home: -83.99755576112611  tech: -89.98031621740589 => home
+Tweet: 309144337902620672	To my Chicago/Indiana peeps try this to get 10 cent discount per gallon!!! #discount #on #gas!!! http://t.co/rowfKLR3QB
+  apparel: -169.17395601278804  art: -167.96203986064467  camera: -188.11376141295062  event: -168.26769106065814  health: -167.87188885517932  home: -178.78057300031577  tech: -170.4908579897683 => health
+Tweet: 309144325567176704	Thorntons: 3 DAYS 2go! 15% #voucher code - Grab 15% #discount from Thorntons using voucher code. Excluding flowers,… http://t.co/y1IGmlBEDT
+  apparel: -371.06782382348666  art: -343.2757253427421  camera: -412.0665749258816  event: -333.50817965708876  health: -343.52460850618047  home: -380.6066824873144  tech: -367.590132354394 => event
+Tweet: 309143976752054272	To celebrate International Women's Day, we're offering 50% off this great range of products! http://t.co/OZmOQXvXrk #coupon #discount
+  apparel: -359.3263913098143  art: -343.3912408012038  camera: -402.5833505002332  event: -344.0844065384947  health: -337.1611048393595  home: -373.7066515553317  tech: -379.5972324011133 => health
+Tweet: 309143870195769348	eFlorist: 10% #voucher code - 10% off all products at eFlorist using #discount code. Ends: 05/30/13 http://t.co/2kEXy0U698
+  apparel: -350.293148167406  art: -365.27762715932954  camera: -431.57529257991325  event: -341.03165070710287  health: -338.0315964763244  home: -392.8068101219926  tech: -385.36321710302326 => health
+Tweet: 309143843301912576	SubscriptionSave: £10 #discount code - £10 off a subscription to Air Gunner magazine from SubscriptionSave using… http://t.co/mfrV2FamMD
+  apparel: -298.0510620490336  art: -259.1060447663007  camera: -331.30964332410923  event: -288.2743827172806  health: -283.50530316956974  home: -305.3061941543024  tech: -302.2894657414918 => art
+Tweet: 309143735508291584	Weekly Deal 4 – Lorell 44553 Floor Fan on Sale. special offer up to 50 off http://t.co/q5e4rKL87f #discount #promo
+  apparel: -250.0329672744147  art: -252.77878815547666  camera: -282.8260487839417  event: -245.33080774021056  health: -244.7663061974002  home: -218.37757088342005  tech: -237.7062576357376 => home
+Tweet: 309143443412770817	RT @Katheleen_Souza: House, M.D.: Seasons 3-4: HOUSE:SEASON THREE &amp; SEASON FOUR - DVD Movie http://t.co/mXHlcabMDm #discount #deal
+  apparel: -330.415014869142  art: -264.0334841114003  camera: -315.9573343453019  event: -293.6950114747203  health: -317.5069764897173  home: -304.9278171511619  tech: -314.3928689286987 => art
+Tweet: 309143199207804928	DS Miller Inc. Equivalent of ACER 5600 SERIES Laptop AC Adapter: 19-Volt 90-Watt Laptop AC Ada... http://t.co/N88a3niE3j #discount #deal
+  apparel: -592.5179619552146  art: -562.2592904285056  camera: -567.5197321030649  event: -565.5404231380882  health: -571.8604743592525  home: -545.9952187066236  tech: -431.3686868360663 => tech

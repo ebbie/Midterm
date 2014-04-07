@@ -1,0 +1,2 @@
+Number of labels: 7
+Number of documents in training set: 4821
